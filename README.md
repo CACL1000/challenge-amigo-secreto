@@ -18,6 +18,9 @@ Este es un proyecto web para organizar un sorteo de Amigo Secreto. Los usuarios 
 
 📄 Licencia
 
+
+
+
 🚀 Funcionalidades
 
 📌 Agregar amigos a una lista.
@@ -61,7 +64,7 @@ Abre el archivo index.html en tu navegador web.
 
 🎨 Captura de Pantalla
 
-![Vista previa del proyecto](assets/image.png)
+![Vista previa del proyecto](https://github.com/CACL1000/challenge-amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/image.png?raw=true)
 
 👥 Autores
 
